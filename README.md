@@ -12,13 +12,15 @@ Most self-order kiosks are a static menu grid with an "Add" button. I wanted ord
 
 ## Screens
 
-## Menu
 
-<img width="1620" height="2160" alt="order_summary" src="https://github.com/user-attachments/assets/e895fb05-6aa5-46f1-9d9f-3af47b3d4a2d" />
+## Menu
+<img width="1620" height="2160" alt="menu" src="https://github.com/user-attachments/assets/273f8e36-b90b-415d-b28c-bde5626d94cc" />
 
 
 ## Order Summary
-<img width="1620" height="2160" alt="menu" src="https://github.com/user-attachments/assets/273f8e36-b90b-415d-b28c-bde5626d94cc" />
+
+<img width="1620" height="2160" alt="order_summary" src="https://github.com/user-attachments/assets/e895fb05-6aa5-46f1-9d9f-3af47b3d4a2d" />
+
 
 
 
