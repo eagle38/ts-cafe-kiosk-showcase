@@ -13,15 +13,15 @@ Most self-order kiosks are a static menu grid with an "Add" button. I wanted ord
 ## Screens
 ### Menu
 
-![Menu Screen](screenshots/menu.PNG)
+![Menu Screen](screenshots/fixed_menu.PNG)
 
 ### Home
 
-![Home Screen](screenshots/order_summary.PNG)
+![Home Screen](screenshots/fixed_order_summary.PNG)
 
 ### Checkout
 
-![Checkout Screen](screenshots/payment.PNG)
+![Checkout Screen](screenshots/fixed_payment.PNG)
 
 
 ## How the pour works
