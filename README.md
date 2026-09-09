@@ -11,17 +11,22 @@ Most self-order kiosks are a static menu grid with an "Add" button. I wanted ord
 
 
 ## Screens
-### Menu
 
-![Menu Screen](screenshots/final_poster_english.jpg)
+## Menu
 
-### Home
+<img width="1620" height="2160" alt="order_summary" src="https://github.com/user-attachments/assets/e895fb05-6aa5-46f1-9d9f-3af47b3d4a2d" />
 
-![Home Screen](screenshots/fixed_order_summary.PNG)
+
+## Order Summary
+<img width="1620" height="2160" alt="menu" src="https://github.com/user-attachments/assets/273f8e36-b90b-415d-b28c-bde5626d94cc" />
+
+
+
 
 ### Checkout
 
-![Checkout Screen](screenshots/fixed_payment.PNG)
+<img width="1620" height="2160" alt="payment" src="https://github.com/user-attachments/assets/e2bb3ad6-3ee3-4691-93d2-82ebdd428f1c" />
+
 
 
 ## How the pour works
