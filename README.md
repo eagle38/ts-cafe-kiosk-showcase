@@ -13,7 +13,7 @@ Most self-order kiosks are a static menu grid with an "Add" button. I wanted ord
 ## Screens
 ### Menu
 
-![Menu Screen](screenshots/fixed_menu.PNG)
+![Menu Screen](screenshots/final_poster_english.jpg)
 
 ### Home
 
